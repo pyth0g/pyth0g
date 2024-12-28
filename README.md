@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pyth0g
-- 👀 I’m interested in pentesting and general redteaming
+- 👀 I like doing things that seem easy
 - 🌱 I’m currently learning C and C++
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
