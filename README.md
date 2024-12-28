@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pyth0g
 - 👀 I like doing things that seem easy
 - 🌱 I’m currently learning C and C++
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
